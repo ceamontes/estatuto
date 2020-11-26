@@ -41,3 +41,23 @@
 		\item[] Parágrafo único -- #1
 	\end{itemize}
 }
+
+\newcommand{\assinaturas}
+{
+	\begin{flushleft}
+		O presente estatuto foi aprovado pela assembleia geral realizada no dia ...../...../.......... .
+		\linebreak \linebreak \linebreak
+		Montes Claros--MG,  em ............ de ...................... de ........... .
+	\end{flushleft}
+	\begin{center}
+		\phantom{space}
+		\linebreak \linebreak \linebreak
+		\phantom{space}\hrulefill\phantom{space}
+		\linebreak
+		Nome e assinatura do presidente
+		\linebreak \linebreak \linebreak \linebreak
+		\phantom{space}\hrulefill\phantom{space}
+		\linebreak
+		Visto do advogado OAB/MG
+	\end{center}
+}
